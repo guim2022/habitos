@@ -7,3 +7,5 @@ tais como:
 <LI>Correr
 <li>Ler
 <li>Tomar remedio 
+<p><h2>Visite o projeto online: <br>
+http://guim2022.github.io/habitos
