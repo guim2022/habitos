@@ -10,10 +10,10 @@ function add() {
     const dayExists = nlwSetup.dayExists(today)
 
     if (dayExists){
-        alert('keyton e gay')
+        alert('dia já adicionado')
         return
     }
-    alert('qualquer coisa')
+    alert('dia adicionado com sucesso')
     nlwSetup.addDay(today)
 }
 function save() {
